@@ -33,3 +33,6 @@ automáticamente en la pantalla principal.
 
 # Tecnologias
 *Netbeans,Java,Mysql
+
+# lIBRERIA REQUERIDA
+mysql-connector-java
