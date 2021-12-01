@@ -30,3 +30,6 @@ también.
 
 • Una vez actualizado o eliminados los cambios se muestran
 automáticamente en la pantalla principal.
+
+# Tecnologias
+*Netbeans,Java,Mysql
